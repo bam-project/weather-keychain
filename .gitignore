@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.bin
+*.elf
+*.map
+build/
+backups/
+*serial*.txt
+*.FCStd1
